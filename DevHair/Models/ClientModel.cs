@@ -3,8 +3,9 @@
     public class ClientModel
     {
         public int Id { get; set; }
-        public string Nome { get; set; } = string.Empty;
-        public DateTime Data { get; set; } = DateTime.Now;
-        public bool Ativo { get; set; } = true;
+        public string Name { get; set; } = string.Empty;
+        public DateTime StartDate { get; set; } = DateTime.Now;
+        public DateTime EndDate { get; set; }
+        public bool IsActive { get; set; } = true;
     }
 }
