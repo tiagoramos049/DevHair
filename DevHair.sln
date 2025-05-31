@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevHair", "DevHair\DevHair.csproj", "{CD8FC241-50A7-46DA-9002-7777E9962054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8FC241-50A7-46DA-9002-7777E9962054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8FC241-50A7-46DA-9002-7777E9962054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8FC241-50A7-46DA-9002-7777E9962054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8FC241-50A7-46DA-9002-7777E9962054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C031EB-95CC-4F46-AA1E-405FA255BFAB}
+	EndGlobalSection
+EndGlobal
